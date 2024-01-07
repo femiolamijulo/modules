@@ -11,7 +11,7 @@ Do you have burning questions about Scrum? Like "What are the most common pitfal
 
 ### Implementation and procurement of agile-driven projects in the US government
 - Implementation: https://playbook.cio.gov/
-- Procuerment: https://techfarhub.cio.gov/handbook/
+- Procurement: https://techfarhub.cio.gov/handbook/
 
 ### How did we get here? (healthcare.gov)
 - OIG Report on Healthcare.gov (you can skim it after the Executive Summary)
